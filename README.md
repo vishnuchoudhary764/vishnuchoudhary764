@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnuchoudhary764
 - 👀  Mern Stack developer
-- 🌱 I’m currently DSA + java
+- 🌱 I’m currently learning DSA + java
 - 👀 I’m looking to collaborate  in startup and projects.
 - 📫 How to reach me - vasanaram162@gmail.com
 - 😄 Pronouns: ...
