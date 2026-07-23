@@ -40,19 +40,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 **[JobHouse](https://jobhouse-frontend.vercel.app/)**
-I powered job and internship platform with recruitment features by integrating the Groq API to perform resume analysis with ATS scoring.
+<p>I powered job and internship platform with recruitment features by integrating the Groq API to perform resume analysis with ATS scoring.</p>
 ---
 
 
